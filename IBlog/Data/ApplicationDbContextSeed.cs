@@ -43,8 +43,8 @@ namespace IBlog.Data
                 },
                 new Post
                 {
-                    Title = "Redefining Strength: Conquering the Weight Room",
-                    Content = "Determination knows no bounds. Witnessing a man's dedication as he lifts his aspirations along with the weights.",
+                    Title = "Astounded by the Galaxy Within the Glass",
+                    Content = "An astonishing portrayal of a galaxy captured within the confines of a glass container. A cosmic marvel encapsulated, revealing the vastness of the universe in miniature.",
                     ImageName = "3.jpg",
                     AuthorId = adminUser.Id
                 }
